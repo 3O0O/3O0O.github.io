@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>3OOO&#39;s Blog</title>
+  
+  <subtitle>一个你看了也没啥用的网站</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-02-22T13:35:02.254Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>3OOO</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>zzm世界第一帅！</title>
+    <link href="http://example.com/2022/01/27/my-first-blog/"/>
+    <id>http://example.com/2022/01/27/my-first-blog/</id>
+    <published>2022-01-27T08:35:17.000Z</published>
+    <updated>2022-02-22T13:35:02.254Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;ZZM真的是人美心善幽默风趣风流倜傥善解人意一身正气临危不乱光明磊落冰清玉洁国色天香！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="rubbish" scheme="http://example.com/categories/rubbish/"/>
+    
+    
+    <category term="ZZM" scheme="http://example.com/tags/ZZM/"/>
+    
+    <category term="帅" scheme="http://example.com/tags/%E5%B8%85/"/>
+    
+  </entry>
+  
+</feed>
