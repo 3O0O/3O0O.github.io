@@ -1921,7 +1921,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4ded29;
+  background: #39ff11;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2858,6 +2858,8 @@ pre .javascript .function {
 @media (min-width: 992px) {
   .site-meta {
     background-image: url("/images/blogHead.jpg");
+    background-size: cover;
+    width: 100%;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -3116,6 +3118,8 @@ body {
   background: url("/images/background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
   background-position: 50% 50%;
 }
 .main-inner {
