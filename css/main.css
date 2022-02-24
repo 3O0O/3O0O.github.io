@@ -1921,7 +1921,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f57eb0;
+  background: #38e994;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2853,6 +2853,12 @@ pre .javascript .function {
   padding: 20px 0;
   color: #fff;
   background: #222;
+  background-image: url("/images/blogHead.jpg");
+}
+@media (min-width: 992px) {
+  .site-meta {
+    background-image: url("/images/blogHead.jpg");
+  }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .site-meta {
@@ -3105,4 +3111,15 @@ pre .javascript .function {
   color: #fc6423;
   border-bottom: none;
   border-bottom: 1px solid #fc6423;
+}
+body {
+  background: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+}
+.main-inner {
+  margin-top: 60px;
+  background: #d0dff9;
+  opacity: 0.8;
 }
