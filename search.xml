@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>从0开始的Ubuntu学习（1）</title>
+    <url>/2022/02/26/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%EF%BC%881%EF%BC%89/</url>
+    <content><![CDATA[<p>写在前面：作为一个计科的学生，不能说我了解了一些计算机专业的知识吧，凡是新遇见一个专业名词我都毫不知情。这学期要学习操作系统原理这门课程，已经可以预见我面对这门课的实验一点都下不去手的窘境了，因此决定在开始实验前学习一下Ubuntu相关知识，虽然不知道对这门课程帮助如何，但是学点东西总比不学要强。</p>
+<h1 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容"></a>学习内容</h1><h2 id="什么叫操作系统？"><a href="#什么叫操作系统？" class="headerlink" title="什么叫操作系统？"></a>什么叫操作系统？</h2><ul>
+<li>Windows，用于个人桌面</li>
+<li>MacOS，用于个人桌面</li>
+<li>Linux，主要用于服务器，商业部署等</li>
+</ul>
+<p>Linux又分为多种发行版，如Ubuntu，CentOS，Redhat，Deepin等</p>
+<h2 id="演示环境"><a href="#演示环境" class="headerlink" title="演示环境"></a>演示环境</h2><p>VMWare + Ubuntu 20.04</p>
+<p>其中，20.04表示2020年4月发布的版本</p>
+<h1 id="Ubuntu-20-04安装"><a href="#Ubuntu-20-04安装" class="headerlink" title="Ubuntu 20.04安装"></a>Ubuntu 20.04安装</h1><h2 id="安装VMware16-2-2"><a href="#安装VMware16-2-2" class="headerlink" title="安装VMware16.2.2"></a>安装VMware<strong>16.2.2</strong></h2><p><strong>虚拟机的安装</strong></p>
+<p>1.进入<strong>VMware官网</strong>，点击应用和云，选择查看所有产品，点击<strong>workstation pro</strong>，跳转界面如图：<br><img src="C:\Users\10209\AppData\Roaming\Typora\typora-user-images\image-20220227135151962.png" alt="image-20220227135151962" style="zoom: 25%;" /></p>
+<p>2.下载试用版，完成后运行.exe</p>
+<p>3.一路点是，等待安装（记得更改默认安装路径）<br><img src="C:\Users\10209\AppData\Roaming\Typora\typora-user-images\image-20220227135439137.png" alt="image-20220227135439137" style="zoom:33%;" /></p>
+<p><strong>4.输入许可证密钥</strong></p>
+<p>我下载的是官网最新的VMware16.2.2版本，这里列出几个可用密钥：<br>ZF3R0-FHED2-M80TY-8QYGC-NPKYF<br>YF390-0HF8P-M81RQ-2DXQE-M2UT6<br>ZF71R-DMX85-08DQY-8YMNC-PPHV8<br><a href="http://blog.itpub.net/69983919/viewspace-2721808/">密钥来源</a></p>
+<h2 id="Ubuntu20-04-下载"><a href="#Ubuntu20-04-下载" class="headerlink" title="Ubuntu20.04 下载"></a>Ubuntu20.04 下载</h2><ol>
+<li><p>国内用户直接从网易镜像站点上下载即可 <a href="http://mirrors.163.com/ubuntu-releases/">传送门</a>            <img src="C:\Users\10209\AppData\Roaming\Typora\typora-user-images\image-20220227140516048.png" alt="image-20220227140516048" style="zoom:50%;" /></p>
+</li>
+<li><p>也可以直接到<a href="https://so.csdn.net/so/search?q=Ubuntu&spm=1001.2101.3001.7020">Ubuntu</a>官网下载 <a href="http://releases.ubuntu.com/">传送门</a></p>
+<img src="C:\Users\10209\AppData\Roaming\Typora\typora-user-images\image-20220227141036337.png" alt="image-20220227141036337" style="zoom: 33%;" />
+
+<p>选择带有图形桌面的desktop版本；直接点击【64-bit PC (AMD64) desktop image】，即可下载</p>
+<img src="C:\Users\10209\AppData\Roaming\Typora\typora-user-images\image-20220227141544700.png" alt="image-20220227141544700" style="zoom:50%;" />
+陷入沉思.jpg</li>
+</ol>
+]]></content>
+      <categories>
+        <category>-learning</category>
+      </categories>
+      <tags>
+        <tag>-OS -Ubuntu</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>zzm世界第一帅！</title>
     <url>/2022/01/27/my-first-blog/</url>
     <content><![CDATA[<h1 id="我是一个天真无邪的一级标题"><a href="#我是一个天真无邪的一级标题" class="headerlink" title="我是一个天真无邪的一级标题"></a>我是一个天真无邪的一级标题</h1><p>ZZM真的是：</p>

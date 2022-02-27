@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-02-23T14:01:29.046Z</updated>
+  <updated>2022-02-27T06:37:10.689Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从0开始的Ubuntu学习（1）</title>
+    <link href="http://example.com/2022/02/26/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%EF%BC%881%EF%BC%89/"/>
+    <id>http://example.com/2022/02/26/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%EF%BC%881%EF%BC%89/</id>
+    <published>2022-02-26T08:15:08.000Z</published>
+    <updated>2022-02-27T06:37:10.689Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;写在前面：作为一个计科的学生，不能说我了解了一些计算机专业的知识吧，凡是新遇见一个专业名词我都毫不知情。这学期要学习操作系统原理这门课程，已经可以预见我面对这门课的实验一点都下不去手的窘境了，因此决定在开始实验前学习一下Ubuntu相关知识，虽然不知道对这门课程帮助如何，但</summary>
+      
+    
+    
+    
+    <category term="-learning" scheme="http://example.com/categories/learning/"/>
+    
+    
+    <category term="-OS -Ubuntu" scheme="http://example.com/tags/OS-Ubuntu/"/>
+    
+  </entry>
   
   <entry>
     <title>zzm世界第一帅！</title>
